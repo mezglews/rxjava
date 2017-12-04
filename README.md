@@ -5,4 +5,6 @@
 3. subjects
 4. testing observables
 5. schedulers
-7.
+7. backpressureException
+8. buffering data
+9. exception handling
